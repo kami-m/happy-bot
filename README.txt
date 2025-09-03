@@ -8,6 +8,11 @@ and python openai library
 
     TODO: Would be cool to also find an ai sound generator that you could enter a description of a sound effect into or music
             and it would play that as a layered sound or generated effect
+    TODO: Would also be cool that depending on the topic, different narrators could be used. 
+            For example, about the wild west, western twang.
+            History- could have an academic voice.
+            Video games - could mimic the style of youtubers.
+
 
 Topic ideas: 
     - History
@@ -21,6 +26,11 @@ can come back later to listen to it again if they wish.
 
 
 If the user enjoys a certain topic, can ask to generate a similar episode of a related or similar topic.
+    Note: the information should not be repeated between episodes.
+            however, a short intro and outro that is repeated between episodes that also mentions the title of the episode may be interesting
+            and also can have small details that hearken back to the previous episode
+
+If the user does not enjoy the podcast, they should be able to skip the podcast or review it negatively. 
 
 There will be a button for generating a podcast with a prompt:
 
